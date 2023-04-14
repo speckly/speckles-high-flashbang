@@ -1,0 +1,21 @@
+{
+  "name": "speckles-high-flashbang",
+  "displayName": "speckles high flashbang",
+  "description": "ooooh i am blinded by the lights",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "speckles-flashbang",
+        "uiTheme": "hc-black",
+        "path": "./themes/speckles-flashbang-color-theme.json"
+      }
+    ]
+  }
+}
