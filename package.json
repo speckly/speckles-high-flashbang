@@ -2,6 +2,7 @@
   "name": "speckles-high-flashbang",
   "displayName": "speckles high flashbang",
   "description": "ooooh i am blinded by the lights",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
@@ -14,11 +15,11 @@
       {
         "label": "speckles-flashbang",
         "uiTheme": "hc-black",
-        "path": "./themes/speckles-flashbang-color-theme.json"
+        "path": "./themes/theme.json"
       }
     ]
   },
-  "publisher": "specksnz",
+  "publisher": "speckly",
   "repository": {
     "type": "git",
     "url": "https://github.com/speckly/speckles-high-flashbang"
